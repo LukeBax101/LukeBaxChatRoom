@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LukeBaxChatRoom</string>
+    <string name="edit_message">Enter a message</string>
+    <string name="url_message_hint">Enter an URL</string>
+    <string name="button_send">Send</string>
+    <string name="url_button_request">Request</string>
+    <string name="to_chat_room">Go to Chat Room</string>
+    <string name="title_activity_chat_room">ChatRoomActivity</string>
+    <string name="enter_name">Please enter your name</string>
+    <string name="enter">Enter</string>
+    <string name="action_settings">Settings</string>
+</resources>
